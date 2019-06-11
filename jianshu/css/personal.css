@@ -1,0 +1,508 @@
+a {
+	cursor: pointer;
+	text-decoration: none;
+}
+
+a,
+body {
+	color: #333;
+}
+
+.container {
+	margin-right: auto;
+	margin-left: auto;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.person .row {
+	padding-top: 30px;
+}
+
+.person .main {
+	padding-right: 0;
+}
+
+.row {
+	margin-left: -15px;
+	margin-right: -15px;
+}
+
+.col-xs-16 {
+	width: 60.66667%;
+}
+
+.col-xs-1,
+.col-xs-2,
+.col-xs-3,
+.col-xs-4,
+.col-xs-5,
+.col-xs-6,
+.col-xs-7,
+.col-xs-8,
+.col-xs-9,
+.col-xs-10,
+.col-xs-11,
+.col-xs-12,
+.col-xs-13,
+.col-xs-14,
+.col-xs-15,
+.col-xs-16,
+.col-xs-17,
+.col-xs-18,
+.col-xs-19,
+.col-xs-20,
+.col-xs-21,
+.col-xs-22,
+.col-xs-23,
+.col-xs-24 {
+	float: left;
+}
+
+.col-lg-1,
+.col-lg-2,
+.col-lg-3,
+.col-lg-4,
+.col-lg-5,
+.col-lg-6,
+.col-lg-7,
+.col-lg-8,
+.col-lg-9,
+.col-lg-10,
+.col-lg-11,
+.col-lg-12,
+.col-lg-13,
+.col-lg-14,
+.col-lg-15,
+.col-lg-16,
+.col-lg-17,
+.col-lg-18,
+.col-lg-19,
+.col-lg-20,
+.col-lg-21,
+.col-lg-22,
+.col-lg-23,
+.col-lg-24,
+.col-md-1,
+.col-md-2,
+.col-md-3,
+.col-md-4,
+.col-md-5,
+.col-md-6,
+.col-md-7,
+.col-md-8,
+.col-md-9,
+.col-md-10,
+.col-md-11,
+.col-md-12,
+.col-md-13,
+.col-md-14,
+.col-md-15,
+.col-md-16,
+.col-md-17,
+.col-md-18,
+.col-md-19,
+.col-md-20,
+.col-md-21,
+.col-md-22,
+.col-md-23,
+.col-md-24,
+.col-sm-1,
+.col-sm-2,
+.col-sm-3,
+.col-sm-4,
+.col-sm-5,
+.col-sm-6,
+.col-sm-7,
+.col-sm-8,
+.col-sm-9,
+.col-sm-10,
+.col-sm-11,
+.col-sm-12,
+.col-sm-13,
+.col-sm-14,
+.col-sm-15,
+.col-sm-16,
+.col-sm-17,
+.col-sm-18,
+.col-sm-19,
+.col-sm-20,
+.col-sm-21,
+.col-sm-22,
+.col-sm-23,
+.col-sm-24,
+.col-xs-1,
+.col-xs-2,
+.col-xs-3,
+.col-xs-4,
+.col-xs-5,
+.col-xs-6,
+.col-xs-7,
+.col-xs-8,
+.col-xs-9,
+.col-xs-10,
+.col-xs-11,
+.col-xs-12,
+.col-xs-13,
+.col-xs-14,
+.col-xs-15,
+.col-xs-16,
+.col-xs-17,
+.col-xs-18,
+.col-xs-19,
+.col-xs-20,
+.col-xs-21,
+.col-xs-22,
+.col-xs-23,
+.col-xs-24 {
+	position: relative;
+	min-height: 1px;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.person .main .main-top {
+	margin-bottom: 20px;
+}
+
+.person .main .main-top .avatar {
+	float: left;
+	width: 80px;
+	height: 80px;
+	margin-left: -2px;
+}
+
+.avatar {
+	width: 24px;
+	height: 24px;
+	display: block;
+	cursor: pointer;
+}
+
+.person .main .main-top .user-follow-button {
+	padding: 8px 0;
+	width: 100px;
+}
+
+.user-follow-button.off {
+	color: #fff;
+	background-color: #42c02e;
+}
+.user-follow-button {
+    text-align: center;
+    border-radius: 40px;
+    font-weight: 400;
+    border: 1px solid transparent;
+    line-height: normal;
+}
+
+
+.person .main .main-top .btn,
+.person .main .main-top .user-follow-button {
+	float: right;
+	margin: 23px 0 23px 16px;
+	font-size: 15px;
+}
+
+button[data-v-6292e408] {
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+	pointer-events: auto !important;
+	cursor: pointer;
+}
+
+button {
+	overflow: visible;
+}
+
+button,
+input,
+optgroup,
+select,
+textarea {
+	color: inherit;
+	font: inherit;
+	margin: 0;
+}
+
+.btn-hollow {
+	border: 1px solid rgba(59, 194, 29, .7);
+	color: #42c02e!important;
+}
+
+.btn-delete,
+.btn-gray,
+.btn-hollow {
+	padding: 4px 12px;
+	font-size: 12px;
+	font-weight: 400;
+	line-height: normal;
+	border-radius: 40px;
+	background: none;
+}
+button, select {
+    text-transform: none;
+}
+
+.btn {
+	display: inline-block;
+	margin-bottom: 0;
+	font-weight: 400;
+	text-align: center;
+	vertical-align: middle;
+	-ms-touch-action: manipulation;
+	touch-action: manipulation;
+	cursor: pointer;
+	background-image: none;
+	border: 1px solid transparent;
+	white-space: nowrap;
+	padding: 6px 12px;
+	font-size: 14px;
+	line-height: 1.42857;
+	border-radius: 20px;
+	-webkit-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
+
+.person .main .main-top .title {
+	padding: 5px 0 0 100px;
+}
+
+body.reader-black-font .container .article .title,
+body.reader-black-font .main .title,
+body.reader-black-font .preview .title {
+	font-family: -apple-system, SF UI Display, Arial, PingFang SC, Hiragino Sans GB, Microsoft YaHei, WenQuanYi Micro Hei, sans-serif;
+}
+
+.person .main .main-top .title .name {
+	display: inline;
+	font-size: 21px;
+	font-weight: 700;
+	vertical-align: middle;
+}
+
+.person .main .main-top .info {
+	margin-top: 5px;
+	padding-left: 100px;
+	font-size: 14px;
+}
+
+.person .main .main-top .info ul {
+	font-size: 0;
+}
+
+.person .main .main-top .info ul li {
+	display: inline-block;
+}
+
+ul {
+	padding-left: 0;
+}
+
+ul,
+menu,
+dir {
+	display: block;
+	list-style-type: disc;
+	margin-block-start: 1em;
+	margin-block-end: 1em;
+	margin-inline-start: 0px;
+	margin-inline-end: 0px;
+	padding-inline-start: 40px;
+}
+
+ol,
+ul {
+	margin-top: 0;
+	margin-bottom: 10px;
+}
+
+li {
+	line-height: 20px;
+	list-style: none;
+}
+
+.person .main .main-top .info ul .meta-block {
+	font-size: 12px;
+	margin: 0 7px 6px 0;
+	padding: 0 7px 0 0;
+	border-right: 1px solid #f0f0f0;
+}
+
+.person .main .main-top .info ul a,
+.person .main .main-top .info ul div {
+	color: #969696;
+}
+
+.person .aside {
+	padding: 0;
+	float:right;
+}
+
+.col-xs-offset-1 {
+	margin-left: 4.16667%;
+}
+
+.col-xs-7 {
+	width: 29.16667%;
+}
+
+.person .aside .user-dynamic {
+	padding-bottom: 6px;
+}
+
+.person .aside .list {
+	margin-bottom: 16px;
+	padding-bottom: 16px;
+	list-style: none;
+	border-bottom: 1px solid #f0f0f0;
+	clear: both;
+}
+
+.trigger-menu {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #f0f0f0;
+    font-size: 0;
+    list-style: none;
+}
+.trigger-menu li {
+    position: relative;
+    display: inline-block;
+    padding: 8px 0;
+    margin-bottom: -1px;
+}
+.trigger-menu .active a, .trigger-menu a:hover {
+    color: #646464;
+}
+.trigger-menu a {
+    padding: 13px 20px;
+    font-size: 15px;
+    font-weight: 700;
+    color: #969696;
+    line-height: 25px;
+}
+.trigger-menu i {
+    margin-right: 5px;
+    font-size: 17px;
+}
+.iconfont {
+    font-family: iconfont!important;
+    font-size: inherit;
+    font-style: normal;
+    font-weight: 400!important;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.note-list {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.note-list li {
+    position: relative;
+    width: 100%;
+    margin: 0 0 15px;
+    padding: 15px 2px 20px 0;
+    border-bottom: 1px solid #f0f0f0;
+    word-wrap: break-word;
+}
+.note-list .title {
+    margin: -7px 0 4px;
+    display: inherit;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.5;
+}
+.note-list .abstract {
+    margin: 0 0 8px;
+    font-size: 13px;
+    line-height: 24px;
+    color: #999;
+}
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.note-list .meta {
+    padding-right: 0!important;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+}
+.note-list .meta span {
+    margin-right: 10px;
+    color: #b4b4b4;
+}
+.jsd-meta {
+    color: #ea6f5a!important;
+}
+.note-list .meta a {
+    margin-right: 10px;
+    color: #b4b4b4;
+}
+.note-list .have-img .wrap-img {
+    position: absolute;
+    top: 50%;
+    margin-top: -60px;
+    right: 0;
+    width: 125px;
+    height: 100px;
+}
+.note-list .have-img .wrap-img img {
+    width: 100%;
+    height: 100%;
+    border-radius: 4px;
+    border: 1px solid #f0f0f0;
+}
+
+.person .aside {
+    padding: 0;
+}
+
+.person .aside .title {
+    float: left;
+    margin-bottom: 10px;
+    font-size: 14px;
+    color: #969696;
+}
+
+.person .aside .description, .person .aside .new-collection-block {
+    position: relative;
+    margin-bottom: 16px;
+    padding: 0 0 16px;
+    text-align: left;
+    font-size: 0;
+    border-bottom: 1px solid #f0f0f0;
+    clear: both;
+    word-break: break-word!important;
+    word-break: break-all;
+}
+.person .aside .description .js-intro, .person .aside .new-collection-block .js-intro {
+    margin-bottom: 10px;
+    line-height: 20px;
+    font-size: 14px;
+}
+
+#user-publications {
+    box-sizing: border-box;
+}
+#user-courses {
+    box-sizing: border-box;
+}
+
+.person .aside .name {
+    position: relative;
+    max-width: 236px;
+    vertical-align: middle;
+    top: 1px;
+    font-size: 14px;
+    color: #333;
+}
